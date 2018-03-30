@@ -1,0 +1,49 @@
+body {background:linear-gradient(blue,yellow);
+ height:900px;}
+.navbar-inverse{background-color:blue;}
+.navbar-nav {background-color:white; margin:10px; width:1270px; }
+.navbar-item:hover {background-color:black;}
+.dropdown:hover {background-color:black;}
+.dropdown-menu:hover {background-color:black; color:white;}
+.navbar-brand{height:70px;}
+.home-main  {
+                  height:550px;
+                  }
+.home-main h1{text-align: center;}
+.contact-main  {
+                  height:550px;
+                  }
+.contact-main h1{text-align: center;}
+
+
+
+.about-main {
+                  height:550px;
+                  }
+
+.about-main h1{text-align: center;}
+#footer {background-color:blue;
+         color:black;
+         height: 20px;}
+
+.login-main {width:300px;
+             background-color:white;
+             margin-top: 300px;
+             margin-left: 500px;
+             }
+
+
+
+.btn-success {margin:10px;}
+
+#register {color:white;}
+
+#login {color:white;}
+
+.register-main {width:400px;
+                
+             background-color:white;
+             margin-top: 100px;
+             margin-left: 500px;
+             }
+
